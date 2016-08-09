@@ -1,0 +1,14 @@
+layout_spectrum: 0.9977618572302163
+typography_spectrum: 0.6262797266244888
+color:
+  brandStrength: 0.8591207631397992
+  lightness: 0.026570544578135014
+  saturation: 0.21326901018619537
+  rhythmicContrast: 0.02807554602622986
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: CRED0
