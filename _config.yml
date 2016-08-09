@@ -1,4 +1,3 @@
-layout_spectrum: 0.9977618572302163
 typography_spectrum: 0.6262797266244888
 color:
   brandStrength: 0.8591207631397992
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.9977618572302163
 name: CRED0
+title: CRED0
